@@ -1,5 +1,5 @@
 ### 武睿祺(Ruiqi Wu)
-I am an undergraduate student of _School of Computer Science and Technology, Wuhan University of Technology, China_, majoring in software engineering. I am also a prospective graduate student of Nankai University under the supervision of Prof. Ming-Ming Cheng. My research interests are in computer vision and image processing, with a particular focus on low-level vision.
+I am an master student of _College of Computer Science, Nankai University, China_, under the supervision of Prof. Ming-Ming Cheng & Prof. Chun-Le Guo. My research insterests are in computer vision and machine learning, with a particular focus on image enhancement and restoration.
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RQ-Wu&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
