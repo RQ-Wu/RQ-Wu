@@ -5,4 +5,7 @@ I am a master student of _TMCC, College of Computer Science, Nankai University, 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RQ-Wu&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RQ-Wu&layout=compact" />
 </div>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
