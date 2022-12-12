@@ -7,5 +7,5 @@ I am a master student of _TMCC, College of Computer Science, Nankai University, 
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/RQ-Wu/count.svg" />
 </p>
