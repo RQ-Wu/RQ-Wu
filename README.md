@@ -9,5 +9,5 @@ I am a master student of _TMCC, College of Computer Science, Nankai University, 
 
 ## Star History
 <p align="center"> 
-<img src="https://api.star-history.com/svg?repos=RQ-Wu/LAMP,RQ-Wu/RIDCP_dehazing,RQ-Wu/UnderwaterRanker,FishAndWasabi/YOLO-MS&type=Date" />
+<img src="https://api.star-history.com/svg?repos=RQ-Wu/LAMP,RQ-Wu/RIDCP_dehazing,RQ-Wu/UnderwaterRanker,FishAndWasabi/YOLO-MS&type=Date" style="width:70%"/>
 </p>
