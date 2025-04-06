@@ -1,5 +1,5 @@
 ## 武睿祺(Ruiqi Wu)
-I am a master student of _TMCC, College of Computer Science, Nankai University, China_, under the supervision of Prof. Ming-Ming Cheng & Dr. Chun-Le Guo. My research interests are computer vision and machine learning, focusing on AIGC and low-level vision.
+PhD candidate of @MCG-NKU, Nankai University. Research intern @HorizonRobotics. My research insterests are in ~~Low-Level Vision~~, AIGC, and Embodied AI.
 
 </div>
 <p align="center"> 
