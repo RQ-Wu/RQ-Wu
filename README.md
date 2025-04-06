@@ -1,5 +1,8 @@
 ## 武睿祺(Ruiqi Wu)
-PhD candidate of @MCG-NKU, Nankai University. Research intern @HorizonRobotics. My research insterests are in ~~Low-Level Vision~~, AIGC, and Embodied AI.
+- PhD candidate of [@MCG-NKU](https://github.com/MCG-NKU), Nankai University.
+- Research intern [@HorizonRobotics](https://github.com/HorizonRobotics).
+- I also spent a rewarding period interning [@megvii-research](https://github.com/megvii-research) and [@StepFun](https://github.com/stepfun-ai).
+- My research insterests are in ~~Low-Level Vision~~, AIGC, and Embodied AI.
 
 </div>
 <p align="center"> 
