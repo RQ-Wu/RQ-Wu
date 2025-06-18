@@ -3,8 +3,7 @@
 - Research intern [@HorizonRobotics](https://github.com/HorizonRobotics).
 - I also spent a rewarding period interning [@megvii-research](https://github.com/megvii-research) and [@StepFun](https://github.com/stepfun-ai).
 - My research insterests are in ~~Low-Level Vision~~, AIGC, and Embodied AI.
-- You can know more about me form [![Homepage](https://img.shields.io/badge/Homepage-Visit-blue?logo=google-chrome)]([https://your-homepage.com](https://rq-wu.github.io/))
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View-brightgreen?logo=googlescholar)]([https://scholar.google.com/citations?user=YourID](https://scholar.google.com/citations?user=orim0kUAAAAJ&hl=en))
+- You can know more about me form [![Homepage](https://img.shields.io/badge/📄_Homepage-Visit-black?style=flat-square)](https://rq-wu.github.io/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Ruiqi_Wu-black?logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?user=orim0kUAAAAJ&hl=en)
 
 ## Star History
 <p align="center"> 
