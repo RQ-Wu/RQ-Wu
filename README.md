@@ -24,7 +24,6 @@
 ---
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RQ-Wu&theme=tokyonight"/>
-<img src="https://github-profile-trophy.vercel.app/?username=RQ-Wu&theme=algolia&no-frame=true&row=1&column=7" />
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RQ-Wu&theme=tokyo-night"/>
 </div>
